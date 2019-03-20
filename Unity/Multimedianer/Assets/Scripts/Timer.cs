@@ -1,12 +1,10 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class Timer : MonoBehaviour
 {
-	float currentTime = 0f;
-    float startingTime = 30f;
+	float currentTime = 0.0f;
+    float startingTime = 30.0f;
     
     public Text TimeDisplay;
 	
@@ -17,7 +15,7 @@ public class Timer : MonoBehaviour
 
 	void Update ()
     {
-		currentTime -= 1 * Time.deltaTime; //jede sekunde
+		currentTime -= Time.deltaTime; //jede sekunde
         TimeDisplay.text = currentTime.ToString ("0"); //nur ganze zahlen
         
         if(currentTime <= 0) //nicht negativ
