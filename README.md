@@ -43,4 +43,5 @@ Der Multimedianer ist ein 2D basierendes serious game.
   - 23.01.2019: Problem mit unterschiedlichen Unity Versionen - fixed
   - 23.01.2019 - 30.01.2019: Scene Switcher, Timer, QuestionRandomizer Script - funktioniert
 
-©5AHMNM-El Gammal-Hilzensauer-Knezevic
+©5AHMNM-El Gammal-Hilzensauer-Knezevic -> Veraltetes Copyright
+©5AHMNM-Lindner-Scherlack
