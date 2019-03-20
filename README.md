@@ -20,6 +20,13 @@ Der Multimedianer ist ein 2D basierendes serious game.
   - Windows10 Home - Version 1803
   - Apple MacBook - OSX Yosemite Version 10.10.5
   
+  
+  ----
+  
+  
+  - Windows 7 Home Premium
+  - Windows 8.1 
+  
 
 ### Programme:
 * [] Adobe After Effects CC 2019: Version 16.0.1 (Build 48)
@@ -39,9 +46,15 @@ Der Multimedianer ist ein 2D basierendes serious game.
 - Status: finished prototype
 - Programming Language: no programming in this project 
 
+
+----
+
+
+
 ## Status
   - 23.01.2019: Problem mit unterschiedlichen Unity Versionen - fixed
   - 23.01.2019 - 30.01.2019: Scene Switcher, Timer, QuestionRandomizer Script - funktioniert
 
 ©5AHMNM-El Gammal-Hilzensauer-Knezevic -> Veraltetes Copyright
+
 ©5AHMNM-Lindner-Scherlack
