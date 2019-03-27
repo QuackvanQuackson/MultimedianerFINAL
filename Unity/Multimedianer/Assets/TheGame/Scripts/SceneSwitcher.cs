@@ -3,7 +3,7 @@ using UnityEngine.SceneManagement;
 
 public class SceneSwitcher : MonoBehaviour
 {
-    enum Scenes {Intro, Main, End}
+    enum Scenes { Intro, Main, End };
 
     public void LoadIntroScene ()
     {
