@@ -8,7 +8,6 @@ public class SceneSwitcher : MonoBehaviour
     public void LoadIntroScene ()
     {
         SceneManager.LoadScene((int)Scenes.Intro);
-
     }
 
     public void LoadMainScene ()

@@ -3,7 +3,6 @@ using UnityEngine.UI;
 
 public class QuestionRandomizer : MonoBehaviour
 {
-    // Use this for initialization
     public void ChangeText ()
     {
         List<string> questions = new List<string> ();
