@@ -1,4 +1,4 @@
-﻿# Multimedianer
+# Multimedianer
 
 
 ## Progress in percent: 
@@ -44,7 +44,7 @@ WebGL
 ## Screenshots
 
 * [https://github.com/misssherlock/MultimedianerVideoPrototype/tree/master/Screenshot]
-
+ 
 
 ## Game control
 
