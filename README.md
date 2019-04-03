@@ -1,20 +1,94 @@
-# Multimedianer
+﻿# Multimedianer
 
-Test
 
-WORKFLOW
+## Progress in percent: 
 
--> PULL
+60%
 
--> WORK ON SOMETHING
 
--> PUSH
+## Development platforms: 
+
+* Windows 7 Home Premium
+* Windows 8.1
+
+
+## Unity Version: 
+
+* Unity 2018.2.14f1
  
-----------
- 
-Der Multimedianer ist ein 2D basierendes serious game. 
 
-  - Sofern man alle Quizfragen richtig beantwortet, wird der Multimedianer auch freigeschalten.
+
+## Visual Studio Versions:
+
+* Microsoft Visual Studio Community 2017: Version 15.9.10
+* Microsoft Visual Studio Community 2017: Version 15.9.2
+
+
+
+## Scripting Runtime Versions:
+
+* .NET 3.5 Equivalent
+
+
+## API compatibility Level
+
+* .NET 2.0 Subset
+
+
+## Target platform:
+
+
+WebGL
+
+
+## Screenshots
+
+* [https://github.com/misssherlock/MultimedianerVideoPrototype/tree/master/Screenshot]
+
+
+## Game control
+
+Maus
+
+
+## Game description: 
+
+
+Der Multimedianer ist ein **2D** basierendes serious game. 
+
+* Ziel des Spiels ist es, herauszufinden, wie der Multimedianer aussieht.
+* Sofern man alle Quizfragen richtig beantwortet, wird der Multimedianer auch freigeschalten.
+
+
+## Third Party Material
+
+nichts vorhanden
+
+
+## Limitations
+
+* zu wenig Zeit
+
+
+## Lessons Learned
+
+* git
+* gitHub
+* C #
+* Unity
+
+
+----
+
+# old
+
+## Game description: 
+
+
+Der Multimedianer ist ein **2D** basierendes serious game. 
+
+* Ziel des Spiels ist es, herauszufinden, wie der Multimedianer aussieht.
+* Sofern man alle Quizfragen richtig beantwortet, wird der Multimedianer auch freigeschalten.
 
 
 ## Development Plattforms:
@@ -23,7 +97,7 @@ Der Multimedianer ist ein 2D basierendes serious game.
   - Apple MacBook - OSX Yosemite Version 10.10.5
   
   
-  ----
+----
   
   
   - Windows 7 Home Premium
@@ -57,6 +131,11 @@ Der Multimedianer ist ein 2D basierendes serious game.
   - 23.01.2019: Problem mit unterschiedlichen Unity Versionen - fixed
   - 23.01.2019 - 30.01.2019: Scene Switcher, Timer, QuestionRandomizer Script - funktioniert
 
-©5AHMNM-El Gammal-Hilzensauer-Knezevic -> Veraltetes Copyright
+----
+
+
+©5AHMNM-Ebner-Garo
+
+©5AHMNM-El Gammal-Hilzensauer-Knezevic
 
 ©5AHMNM-Lindner-Scherlack
