@@ -5,6 +5,7 @@ using UnityEngine.UI;
 public class QuestionRandomizer : MonoBehaviour
 {
     private const string QUESTIONDISPLAY = "QuestionDisplay";
+    public Question[] questions = new Question[10];
 
     public void ChangeText ()
     {
