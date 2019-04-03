@@ -4,13 +4,16 @@ using UnityEngine.UI;
 
 public class QuestionRandomizer : MonoBehaviour
 {
-    public Text textQuestion;
-    public Text textAnswer1;
-    public Text textAnswer2;
-    public Text textAnswer3;
-    public Text textAnswer4;
+
+    public Text questionText = null;
+    public Text b1 = null;
+    public Text b2 = null;
+    public Text b3 = null;
+    public Text b4 = null;
+
+
     private const string QUESTIONDISPLAY = "QuestionDisplay";
-    public Question[] questions = new Question[10];
+    public Question[] questionsNew = new Question[10];
 
     public void ChangeText ()
     {
