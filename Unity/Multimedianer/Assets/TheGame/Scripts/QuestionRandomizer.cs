@@ -43,7 +43,7 @@ public class QuestionRandomizer : MonoBehaviour
 
         var text = QuestionRandom.GetComponent<Text> ();
 
-        textQuestion.text = questions [questionNumber].question;
+        questionText.text = questionsNew [questionNumber].question;
 
     }
 }
